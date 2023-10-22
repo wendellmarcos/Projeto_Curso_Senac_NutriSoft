@@ -52,7 +52,7 @@ O projeto foi desenvolvido usando a linguagem Java e o ambiente de desenvolvimen
 Este projeto oferece uma solução útil para nutricionistas, facilitando cálculos comuns em sua prática. Com as funcionalidades de IMC, cálculo de gasto calórico e recomendações nutricionais, o software atende às necessidades dos profissionais da área.
 
 
-#English
+# English
 
 # Nutrition Software Project
 
